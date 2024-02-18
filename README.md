@@ -43,10 +43,11 @@ The goals of this project are the following:
 
 
 ## Author and acknowledgement
-I'm David Guillaume, currently studying for a master's degree in Data Analytics and Economics at the University of Fribourg (Switzerland). I'm very interested in data sciences and economics in particular (bachelor's degree in Political Economy). I hope you'll like my project. I would like to thank Udacity for overseeing this program.
+I'm David Guillaume, currently studying for a master's degree in Data Analytics and Economics at the University of Fribourg (Switzerland). I'm very interested in data sciences and economics in particular (bachelor's degree in Political Economy). I hope you'll like my project.
 <br>
 <a href="https://www.linkedin.com/in/david-guillaume-a7bb1b201/"><strong>Here is my Linkedin</strong></a>
 <br>
+
 The course was given by Christian Kauth and I would like to extend my heartfelt gratitude to him for his his expertise.
 
 <br>
